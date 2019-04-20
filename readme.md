@@ -1,10 +1,11 @@
-# Remark Math
+# Remark BridgeDiagram
 
+<!---
 [![npm](https://img.shields.io/npm/v/remark-math.svg)](https://www.npmjs.com/package/remark-math)
 [![Build Status](https://travis-ci.org/Rokt33r/remark-math.svg?branch=master)](https://travis-ci.org/Rokt33r/remark-math)
 [![Chat](https://img.shields.io/gitter/room/wooorm/remark.svg)](https://gitter.im/wooorm/remark)
 
-Math Inline and Block supporting for Remark
+Create Bridge Diagrams for Remark
 
 ## What does Remark Math?
 
@@ -220,3 +221,4 @@ $$\alpha$$
 MIT © Junyoung Choi
 
 [katex]: https://github.com/Khan/KaTeX
+--->
